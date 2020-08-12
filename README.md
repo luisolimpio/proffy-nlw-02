@@ -1,4 +1,4 @@
-﻿<p align="left">
+﻿<p align="center">
    <img src="web/src/assets/images/landing.svg" width="200"/>
 </p>
 
@@ -10,6 +10,8 @@
 > Proffy is a platform that allows teachers and students to meet, creating connections and spreading knowledge to everyone.
 
 <br />
+
+<p align="center"><img src=".github/web.gif?raw=true"/></p>
 
 ---
 
