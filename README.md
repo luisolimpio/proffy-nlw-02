@@ -18,6 +18,7 @@
 
 * [Features](#rocket-features)
 * [Installation](#construction_worker-installation)
+* [FAQ](#question-faq)
 
 
 # :rocket: Features
