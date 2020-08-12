@@ -1,7 +1,8 @@
 ﻿<p align="center">
-   <img src="web/src/assets/images/landing.svg" width="200"/>
+   <img src="web/src/assets/images/landing.svg" width="400"/>
 </p>
 
+# Proffy
 
 [![Author](https://img.shields.io/badge/author-luisolimpio-D54F44?style=flat-square)](https://github.com/luisolimpio)
 [![Languages](https://img.shields.io/github/languages/count/luisolimpio/proffy-nlw-02?color=%23D54F44&style=flat-square)](#)
@@ -19,6 +20,7 @@
 
 * [Features](#rocket-features)
 * [Installation](#construction_worker-installation)
+* [FAQ](#question-faq)
 
 
 # :rocket: Features
